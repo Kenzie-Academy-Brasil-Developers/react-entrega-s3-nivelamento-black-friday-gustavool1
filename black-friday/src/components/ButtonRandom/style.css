@@ -1,0 +1,17 @@
+button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    font-size: 22px;
+    background-color: rgb(76, 81, 94);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: rgb(152 163 185 / 58%) 5px 5px;
+    cursor: pointer;
+    transition: all 1s ease 0s;
+    width: 100%;
+}
+button:hover{
+    box-shadow: rgb(85 91 104 / 58%) 1px 1px;
+}
